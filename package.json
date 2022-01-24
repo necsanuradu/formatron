@@ -1,6 +1,6 @@
 {
-  "name": "formatron",
-  "version": "1.0.0",
+  "name": "formidable-forms-state",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/necsanuradu/formatron#readme",
   "devDependencies": {
     "@types/react": "^17.0.38"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
   }
 }
